@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-15T02:10:13.926Z</updated>
+  <updated>2020-07-19T01:43:47.908Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,29 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>My First Computer</title>
+    <link href="http://yoursite.com/2020/07/19/my-first-computer/"/>
+    <id>http://yoursite.com/2020/07/19/my-first-computer/</id>
+    <published>2020-07-19T00:28:51.390Z</published>
+    <updated>2020-07-19T01:43:47.908Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哎呀，真的废了好大的劲，终于将自己的这个博客建好了。那么，第一篇博文应该写什么比较好呢，由于本人爱好较为广泛，但似乎都不是很精通，还是不学其他大佬上来就是学习什么什么的经验了。作为有纪念意义的博文，应该记录我进入计算机世界的标志性事件，而见证我进入计算机世界的事物就是我的第一台计算机，那么我的第一篇博文就以介绍我的这台电脑以及它经历的故事为主题吧。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="计算机收藏家" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%94%B6%E8%97%8F%E5%AE%B6/"/>
+    
+    
+      <category term="双叶熏" scheme="http://yoursite.com/tags/%E5%8F%8C%E5%8F%B6%E7%86%8F/"/>
+    
+      <category term="计算机硬件" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/07/13/hello-world/"/>
     <id>http://yoursite.com/2020/07/13/hello-world/</id>
     <published>2020-07-13T14:36:35.959Z</published>
-    <updated>2020-07-15T02:10:13.926Z</updated>
+    <updated>2020-07-19T00:39:42.849Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
     
       <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
     
-    
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
     
       <category term="HelloWorld" scheme="http://yoursite.com/tags/HelloWorld/"/>
     
